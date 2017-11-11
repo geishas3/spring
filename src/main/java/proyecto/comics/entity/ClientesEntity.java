@@ -12,7 +12,7 @@ public class ClientesEntity {
 	@Id
 	@Column(name="dni", nullable=false, unique=true)
 	private String dni;
-	
+	//Hola amigos del metal
 	@Column(name="nombre")
 	private String nombre;
 	
